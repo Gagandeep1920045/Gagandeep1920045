@@ -43,7 +43,7 @@
 ## 🚀 Goals  
 
 ✔ Build industry-level portfolio projects  
-✔ Keep Learning Tech Skills
+✔ Keep Learning Tech Skills  
 ✔ Crack my first Data Analyst role  
 
 ---

@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+---
+
 # 👋 Hi, I'm Gagandeep Singh  
 ### 🚀 Aspiring Data Analyst | Turning Data into Insights
 
@@ -55,10 +61,11 @@
 ---
 
 ## 📫 Connect With Me  
-
-📧 Email: gagandeep1920045@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/gagandeep243  
-💻 GitHub: https://github.com/Gagandeep1920045  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
 ---
 

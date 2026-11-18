@@ -23,14 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />  
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />  
-
----
-
 ## 📫 Connect With Me  
 <a href="https://linkedin.com/in/gagandeep243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagandeep243" height="30" width="40" /></a>  
 </p>
